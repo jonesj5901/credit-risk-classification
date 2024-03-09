@@ -1,4 +1,3 @@
-## Unit 20 - Supervised Learning
 # credit-risk-classification
 
 ### Objectives
